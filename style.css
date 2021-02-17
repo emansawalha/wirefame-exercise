@@ -1,0 +1,126 @@
+
+  *{
+
+
+    margin: 30px;
+  }
+  
+  
+  
+  header{
+      
+    overflow: hidden;
+    background-color: black;
+    position:relative;
+    
+    
+    
+    
+}
+
+
+
+header nav ul li  {
+    float: left;
+    display: block;
+    color: red;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+    
+
+  }
+
+
+header  img{
+    float:left;
+    position: relative;
+    
+    padding-top: 30px;
+}
+header nav ul li a {
+    float:right;
+    display: block;
+    color: #f8f8f7;
+    text-align: left;
+    text-decoration: none;
+    padding: 50px 20px;
+  }
+ main div{
+   float:inline-end;
+   margin:30px;
+ }
+  main img {
+      float:inline-start;
+      margin: 30 px;
+    
+  }
+  main section{
+  display:inline-block;
+  
+   margin-top: 30px;
+   margin-bottom: 30px;
+   margin-left: 30px;
+   padding-left: 30px;
+   padding-block-start: 30px;
+   
+   
+
+  }
+  p{
+    display: flex;
+    padding-top: 30px;
+    padding-right: 60px;
+    overflow:scroll;
+    overflow-y: scroll;
+    overflow-x: hidden;
+  }
+  ::-webkit-scrollbar-track{
+    box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+  }
+ 
+
+ h4{
+   
+    font-weight: 900;
+   
+  }
+   
+
+
+  article aside  img {
+      float: left;
+      padding: 30px;
+  }
+  span{
+  
+  
+  float:right;
+   border:black;
+   background-color: gray;
+   border-radius: 10px;
+   padding : 10px;
+   margin-right: 90px;
+   margin-top: 30px;
+   margin-bottom: 30px;
+   
+    
+  }
+   span:hover{
+     background-color: black;
+     color: white;
+   }
+  footer {
+    clear: both;
+    position: relative;
+    background: #0c0c0c;
+    width: 100%;
+    height: 100px;
+    
+   
+}
+
+
+ 
